@@ -1,0 +1,138 @@
+    1  exit
+    2  pwd
+    3  ls
+    4  cd
+    5  where is autocad
+    6  whereisautocad
+    7  whereis autocad
+    8  explorer.exe .
+    9  ls --help
+   10  ls -l
+   11  ls --all -l
+   12  cd ..
+   13  cd ../../../
+   14  cd home
+   15  mkdir test
+   16  clear
+   17  touch hello_world.py
+   18  ls
+   19  cat hello_world.py
+   20  pwd
+   21  whereis sl
+   22  mkdir
+   23  mkdir semanatecprogra
+   24  ls
+   25  clear
+   26  mkdir progra_clase
+   27  pwd
+   28  cd ~
+   29  mkdir progra_clase
+   30  cd progra_clase
+   31  pwd
+   32  touch hello_world.py
+   33  ls
+   34  cat hello_world.py
+   35  nano hello_world.py
+   36  phyton3 hello_world.py
+   37  nano hello_world.py
+   38  phyton3 hello_wold.py
+   39  phyton hwllo_world.py
+   40  phyton3 hello_world.py
+   41  pyton3 hello_world.py
+   42  python3 hello_world.py
+   43  nano hello_world.py
+   44  nano lorem.txt
+   45  cat > lorem.txt
+   46  cat lorem.txt
+   47  cleare
+   48  clear
+   49  cd~/progra_clase
+   50  cd ~/progra_clase
+   51  rm lorem.txt ipsum.txt hello_world.py
+   52  ls
+   53  clear
+   54  nano hello_world.py
+   55  python3 hello_world.py
+   56  nano lorem.txt
+   57  cat lorem.txt
+   58  tail -3 lorem.txt
+   59  head -1 lorem.txt
+   60  cp lorem.txt ipsum.txt
+   61  ls -l
+   62  cd ..
+   63  ls -l
+   64  cd progra_clase
+   65  ls
+   66  cp hello_world.py ../hello-world.py
+   67  cd ..
+   68  ls -l
+   69  clear
+   70  close
+   71  exit
+   72  pwd
+   73  cd ~
+   74  mkdir semana_tec1
+   75  ls
+   76  cd semana_tec1
+   77  pwd
+   78  ls
+   79  touch hello.sh
+   80  ls
+   81  nano hello.sh
+   82  chmod +x hello.sh
+   83  ./hello.sh Diego_Resendiz_Perez
+   84  >>
+   85  ./hello.sh Diego_Resendiz_Perez >> output.txt
+   86  ls
+   87  explorer.ece .
+   88  explorer.exe .
+   89  cat
+   90  exit
+   91  cd semana_tec1
+   92  pwd
+   93  cd 
+   94  `pwd
+   95  clear
+   96  cd ~
+   97  pwd
+   98  cd semana_tec1
+   99  sudo apt update
+  100  git --version
+  101  git clone https://github.com/a01711961/semana_tec_marzo_2026.git
+  102  ls
+  103  cd semana_tec_marzo_2026
+  104  ls -l --all
+  105  nano hello _world.py
+  106  git status
+  107  git add -A
+  108  git status
+  109  nano readmi.md
+  110  nano readme.md
+  111  nano README.md
+  112  git status
+  113  git add -A
+  114  status
+  115  git status
+  116  git commit -m "Agrega hello_world y mejora texto de README"
+  117  git config --global user.email "A01711961@tec.mx"
+  118  git config --global user.name "A01711961 DRP"
+  119  git commit -m "Agrega hello_world y mejora texto de README"
+  120  git status
+  121  git log
+  122  git push origin main
+  123  git status
+  124  git push origin main
+  125  git pull origin main
+  126  git log
+  127  nano hello_world.py
+  128  cd semana_tec1
+  129  cd ..
+  130  git clone https://github.com/a01711961/Laboratorio_A01711961.git
+  131  cd Laboratorio_A01711961
+  132  nano version.html
+  133  ls
+  134  git add -A
+  135  git commit -m "crea version inicial"
+  136  git push origin main
+  137  explorer.exe .
+  138  history > historial.txt

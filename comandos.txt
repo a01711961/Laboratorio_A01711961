@@ -1,0 +1,141 @@
+exit
+pwd
+ls
+cd
+where is autocad
+whereisautocad
+whereis autocad
+explorer.exe .
+ls --help
+ls -l
+ls --all -l
+cd ..
+cd ../../../
+cd home
+mkdir test
+clear
+touch hello_world.py
+ls
+cat hello_world.py
+pwd
+whereis sl
+mkdir
+mkdir semanatecprogra
+ls
+clear
+mkdir progra_clase
+pwd
+cd ~
+mkdir progra_clase
+cd progra_clase
+pwd
+touch hello_world.py
+ls
+cat hello_world.py
+nano hello_world.py
+phyton3 hello_world.py
+nano hello_world.py
+phyton3 hello_wold.py
+phyton hwllo_world.py
+phyton3 hello_world.py
+pyton3 hello_world.py
+python3 hello_world.py
+nano hello_world.py
+nano lorem.txt
+cat > lorem.txt
+cat lorem.txt
+cleare
+clear
+cd~/progra_clase
+cd ~/progra_clase
+rm lorem.txt ipsum.txt hello_world.py
+ls
+clear
+nano hello_world.py
+python3 hello_world.py
+nano lorem.txt
+cat lorem.txt
+tail -3 lorem.txt
+head -1 lorem.txt
+cp lorem.txt ipsum.txt
+ls -l
+cd ..
+ls -l
+cd progra_clase
+ls
+cp hello_world.py ../hello-world.py
+cd ..
+ls -l
+clear
+close
+exit
+pwd
+cd ~
+mkdir semana_tec1
+ls
+cd semana_tec1
+pwd
+ls
+touch hello.sh
+ls
+nano hello.sh
+chmod +x hello.sh
+./hello.sh Diego_Resendiz_Perez
+>>
+./hello.sh Diego_Resendiz_Perez >> output.txt
+ls
+explorer.ece .
+explorer.exe .
+cat
+exit
+cd semana_tec1
+pwd
+cd 
+`pwd
+clear
+cd ~
+pwd
+cd semana_tec1
+sudo apt update
+git --version
+git clone https://github.com/a01711961/semana_tec_marzo_2026.git
+ls
+cd semana_tec_marzo_2026
+ls -l --all
+nano hello _world.py
+git status
+git add -A
+git status
+nano readmi.md
+nano readme.md
+nano README.md
+git status
+git add -A
+status
+git status
+git commit -m "Agrega hello_world y mejora texto de README"
+git config --global user.email "A01711961@tec.mx"
+git config --global user.name "A01711961 DRP"
+git commit -m "Agrega hello_world y mejora texto de README"
+git status
+git log
+git push origin main
+git status
+git push origin main
+git pull origin main
+git log
+nano hello_world.py
+cd semana_tec1
+cd ..
+git clone https://github.com/a01711961/Laboratorio_A01711961.git
+cd Laboratorio_A01711961
+nano version.html
+ls
+git add -A
+git commit -m "crea version inicial"
+git push origin main
+explorer.exe .
+history > historial.txt
+pwd
+ls
+history | cut -c 8- > comandos.txt
